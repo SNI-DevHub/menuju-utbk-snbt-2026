@@ -7,13 +7,13 @@
       flex-direction: column;
       height: 100vh;
       margin: 0;
-      background: linear-gradient(135deg, #2f80ed, #56ccf2);
+      background: linear-gradient(135deg, #2948ff, #396afc);
       color: #fff;
       text-align: center;
     }
 
     h1 {
-      font-size: 2.0rem;
+      font-size: 2.5rem;
       margin-bottom: 10px;
       text-shadow: 1px 1px 6px rgba(0,0,0,0.3);
     }
